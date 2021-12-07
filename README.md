@@ -1,6 +1,6 @@
-# MOIA_Telematics_Challenge
+# Vehicle_Telematics_Project
 
-This repository contains the submission of my solution for the MOIA Data Science Vehicle Telematics Challenge.
+This repository contains my vehicle telematics project.
 
 The code can be run by structuring the folder like this repository with the data files placed in a folder name 'data' which should be in the same folder with the python notebook.
 If the file is placed in another folder, the full path to the file has to be specified in the import section of the notebook.
